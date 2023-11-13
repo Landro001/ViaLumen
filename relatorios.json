@@ -1,0 +1,26 @@
+[
+    {
+        "nome_via": "Av. Paulista",
+        "horario": "11:30",
+        "acontecimento": "Acidente entre um carro e uma moto",
+        "dia": "09/11/2023"
+    },
+    {
+        "nome_via": "Rod. Ayrton Senna",
+        "horario": "13:50",
+        "acontecimento": "Atropelamento",
+        "dia": "07/11/2023"
+    },
+    {
+        "nome_via": "Marginal Tiete",
+        "horario": "06:30",
+        "acontecimento": "Atropelando de animal silvestres",
+        "dia": "08/11/2023"
+    },
+    {
+        "nome_via": "Av. Jacu Pessego",
+        "horario": "14:00",
+        "acontecimento": "acidente de transito",
+        "dia": "21/05/2019"
+    }
+]

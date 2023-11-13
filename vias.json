@@ -1,0 +1,22 @@
+{
+    "Av. Paulista": {
+        "status": "transito critico",
+        "semaforo": "verde"
+    },
+    "Av. Brasil": {
+        "status": "transito moderado",
+        "semaforo": "verde"
+    },
+    "Rod. Ayrton Senna": {
+        "status": "transito moderado",
+        "semaforo": "vermelho"
+    },
+    "Marginal Tiete": {
+        "status": "transito critico",
+        "semaforo": "verde"
+    },
+    "Av. Jacu Pessego": {
+        "status": "transito leve",
+        "semaforo": "vermelho"
+    }
+}
